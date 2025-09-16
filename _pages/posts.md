@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /posts/
-date: 2024-08-30
 title: "Posts"
 author_profile: true
 redirect_from:
