@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). My research interests primarily lie in the application of artificial intelligence in analytical chemistry and metabolomics.
 
-Prior to that, I obtained the Bachelor of Science degree from Shandong University of Finance and Economics, and the Master's degree in Applied Statistics from China Pharmaceutical University under the supervision of Professor Hua Yang.
+Prior to that, I obtained the Bachelor of Science degree from Shandong University of Finance and Economics, and the Master's degree in Applied Statistics from China Pharmaceutical University under the supervision of Prof. [Hua Yang](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/D84FD2ED7B95527E0C23D4E3DC685EE6).
 
 A data-driven personal website
 ======
