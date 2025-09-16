@@ -25,12 +25,14 @@ author:
   # Biographic information
   avatar           : "profile_5.jpg"
   name             : "Chencheng Tang"
+  name_plus        : "唐晨程"
+  title            : "Ph.D. Student"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shanghai, CN"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cctang25@m.fudan.edu.cn" 
 
   # Academic websites
   academia         : # URL
