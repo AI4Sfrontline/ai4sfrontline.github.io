@@ -13,5 +13,4 @@ citation: 'Tang, C., Huang, D., Xing, X., & Yang, H. (2024). EigenRF: an improve
 
 [Download paper here](https://ai4sfrontline.github.io/files/2024-12-19-Anal-Methods.pdf)
 
-
 ---
