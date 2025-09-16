@@ -10,4 +10,4 @@ redirect_from:
 2025
 ======
 * Published: June 16, 2025
-* I obtained the Professional Master's degree in Applied Statistics from China Pharmaceutical University
+  I obtained the Professional Master's degree in Applied Statistics from China Pharmaceutical University
