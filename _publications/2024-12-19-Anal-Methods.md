@@ -10,12 +10,4 @@ paperurl: 'http://ai4sfrontline.github.io/files/2024-12-19-Anal-Methods.pdf'
 citation: 'Tang, C., Huang, D., Xing, X., & Yang, H. (2024). EigenRF: an improved metabolomics normalization method with scores for reproducibility evaluation on importance rankings of differential metabolites. <i>Analytical Methods: Advancing Methods and Applications</i>, 17(1), 45–53.'
 ---
 [Link to this paper](https://doi.org/10.1039/D4AY01569J)
-
-[Download paper here](https://ai4sfrontline.github.io/files/2024-12-19-Anal-Methods.pdf)
-
 ---
-
-
-
-
-
