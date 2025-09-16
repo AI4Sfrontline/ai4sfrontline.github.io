@@ -1,4 +1,13 @@
 ---
+layout: archive
+permalink: /posts/
+title: "Posts"
+author_profile: true
+redirect_from:
+  - /wordpress/posts/
+---
+
+---
 title: 'Future Blog Post'
 date: 2199-01-01
 tags:
