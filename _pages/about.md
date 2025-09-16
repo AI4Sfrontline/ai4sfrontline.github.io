@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). My research interests primarily lie in the application of artificial intelligence in analytical chemistry and metabolomics.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Prior to that, I obtained the Bachelor of Science degree from Shandong University of Finance and Economics, and the Master's degree in Applied Statistics from China Pharmaceutical University under the supervision of Professor Hua Yang.
 
 A data-driven personal website
 ======
