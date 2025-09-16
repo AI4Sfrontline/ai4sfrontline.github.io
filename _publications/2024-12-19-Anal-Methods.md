@@ -10,7 +10,8 @@ citation: 'Tang, C., Huang, D., Xing, X., & Yang, H. (2024). EigenRF: an improve
 ---
 [Link to this paper](https://doi.org/10.1039/D4AY01569J)
 
-[Download paper here](https://ajay1685.github.io/files/2024-07-07-Front-Cell-Dev-Biol.pdf)
+[Download paper here](https://ai4sfrontline.github.io/files/2024-12-19-Anal-Methods.pdf)
 
 
 ---
+
