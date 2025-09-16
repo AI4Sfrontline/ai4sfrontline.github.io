@@ -17,33 +17,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January - June 2022: SAS Programmer
+  * WuXi AppTec - WuXi Clinical Development Services (Shanghai) Co., Ltd.
+  * Department: Clinical statistical programming
+  * Duties includes: Understand clinical data research documents, provide support for basic programming tasks, and modify existing programs. Use SAS to generate clinical trial datasets (Tables, Figures, Listings) that meet CDISC standards for submission to regulatory authorities.
+  * Supervisor: Xiaobei Li
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May - June 2020: Managerial Assistant
+  * Ping An Bank Co., Ltd.
+  * Department: Loan Approval
+  * Duties included: Responsible for the credit check, blacklist verification, personal asset assessment, and bank statement inquiry during the mortgage process, as well as the organization and filing of intermediary documents.
+  * Supervisor: Kai Liu
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Competition
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025 "Jingyuan" Medical Scholarship, China Pharmaceutical University
+* 2023 University Data Science Competition Second Prize, Drug Information Association
 
 Publications
 ======
