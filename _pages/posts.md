@@ -1,3 +1,12 @@
+---
+layout: archive
+permalink: /year-archive/
+title: "Posts"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
 News
 ======
 * Published: June 16, 2025
