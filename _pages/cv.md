@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Biochemistry and Molecular Biology, School of Life Sciences, Fudan University, 2029 (expected)
+* M.S. in Applied Statistics, State Key Laboratory of Natural Medicines, School of Science, China Pharmaceutical University, 2025
+* B.S. in Statistics, School of Statistics and Mathematics, Shandong University of Finance and Economics, 2022
 
 Work experience
 ======
@@ -32,6 +32,10 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
+Competition
+======
+* Currently signed in to 43 different slack teams
+
 Skills
 ======
 * Skill 1
@@ -46,19 +50,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
