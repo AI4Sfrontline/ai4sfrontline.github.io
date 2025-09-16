@@ -43,7 +43,7 @@ author:
   orcid            : "http://orcid.org/0009-0008-5502-5957"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=chencheng+tang"
-  researchgate     : # URL
+  # researchgate     : # URL
   # scopus           : # URL
 
   # Repositories and software development
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -78,7 +78,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "Bill Tang" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
