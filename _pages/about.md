@@ -7,11 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). My research primarily focuses on the application of artificial intelligence in analytical chemistry and metabolomics.
+I am currently a Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). My research primarily focuses on the application of artificial intelligence in analytical chemistry and metabolomics.
 
 Prior to that, I obtained the Bachelor of Science degree from the School of Statistics and Mathematics at [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/). Subsequently, I engaged in research within the field of pharmaceutical informatics at the [State Key Laboratory of Natural Medicines](https://sklnm.cpu.edu.cn/), [China Pharmaceutical University](https://www.cpu.edu.cn/), and earned the Master's degree in Applied Statistics under the supervision of Prof. [Hua Yang](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/D84FD2ED7B95527E0C23D4E3DC685EE6).
 
-A data-driven personal website
+<strong>My research interests include:</strong>
+</p>
+  
+<ul>
+<li>New technologies for analyzing complex structure based on deep learning</li>
+<li>AI-based metabolic network modeling and optimization</li>
+<li>Metabolomics data processing and analysis workflow</li>
+<li>Applications of AI in synthetic biology</li>
+<li>Natural language processing in chemistry</li>
+</ul>
+
+My research interest lies in
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
