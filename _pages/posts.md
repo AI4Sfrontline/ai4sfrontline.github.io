@@ -7,3 +7,6 @@ redirect_from:
   - /wordpress/posts/
 ---
 
+2025
+======
+* I obtained the Professional Master's degree in Applied Statistics from China Pharmaceutical University (June 16)
