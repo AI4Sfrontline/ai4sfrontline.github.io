@@ -19,12 +19,14 @@ Work experience
 ======
 * January - June 2022: SAS Programmer
   * WuXi AppTec - WuXi Clinical Development Services (Shanghai) Co., Ltd.
+  * Location: Chengdu, Sichuan
   * Department: Clinical statistical programming
   * Duties includes: Understand clinical data research documents, provide support for basic programming tasks, and modify existing programs. Use SAS to generate clinical trial datasets (Tables, Figures, Listings) that meet CDISC standards for submission to regulatory authorities.
   * Supervisor: Xiaobei Li
 
 * May - June 2020: Managerial Assistant
   * Ping An Bank Co., Ltd.
+  * Location: Jinan, Shandong
   * Department: Loan Approval
   * Duties included: Responsible for the credit check, blacklist verification, personal asset assessment, and bank statement inquiry during the mortgage process, as well as the organization and filing of intermediary documents.
   * Supervisor: Kai Liu
