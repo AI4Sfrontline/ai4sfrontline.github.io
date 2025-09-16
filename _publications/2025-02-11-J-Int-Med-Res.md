@@ -13,5 +13,6 @@ venue: 'Journal of International Medical Research'
 paperurl: 'http://ai4sfrontline.github.io/files/2025-02-11-J-Int-Med-Res.pdf'
 citation: 'Yu, S., Cheng, Y., Tang, C. C., & Liu, Y. P. (2025). Diagnostic accuracy of high-resolution melting curve analysis for discrimination of oncology-associated EGFR mutations: a systematic review and meta-analysis. <i>The Journal of international medical research</i>, 53(2), 3000605241311133.'
 ---
-[Link to this paper](https://doi.org/10.1039/D4AY01569J](https://doi.org/10.1177/0300060524131113)
+[Link to this paper](https://doi.org/10.1177/0300060524131113)
 ---
+
