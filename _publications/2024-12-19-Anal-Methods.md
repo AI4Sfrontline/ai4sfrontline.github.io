@@ -15,5 +15,3 @@ citation: 'Tang, C., Huang, D., Xing, X., & Yang, H. (2024). EigenRF: an improve
 
 
 ---
-
-
