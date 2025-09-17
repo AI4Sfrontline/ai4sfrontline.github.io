@@ -11,3 +11,4 @@ redirect_from:
 ======
 * **Published:** June 16, 2025<br>I obtained the Professional Master's degree in Applied Statistics from China Pharmaceutical University
 
+<hr class="achieve-divider" />
