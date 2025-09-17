@@ -9,6 +9,6 @@ redirect_from:
 
 2025
 ======
+<hr class="achieve-divider" />
 * **Published:** June 16, 2025<br>I obtained the Professional Master's degree in Applied Statistics from China Pharmaceutical University
 
-<hr class="achieve-divider" />
